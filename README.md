@@ -1,1 +1,1 @@
-# soduko-new
+I tried to solve the soduko without using recursion. I am using a while loop. The algorithm only goes through the empty positions and uses backtraking to get the results right. Finally, the solution is printed and proved by adding all of the rows and columns.
